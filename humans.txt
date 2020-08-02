@@ -2,9 +2,9 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> Sarath Gollapalli <twitter>
-
+ Sarath Gollapalli 
+gsarath78@gmail.com
+Devops engineer
 # THANKS
 
     <name>
