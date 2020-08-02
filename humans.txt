@@ -13,4 +13,4 @@ Devops engineer
 
     HTML5, CSS3
     jQuery, Modernizr
-	Angular, EXTJS
+	Angular, hhd, Google cloud
